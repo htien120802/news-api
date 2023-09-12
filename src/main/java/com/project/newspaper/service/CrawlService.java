@@ -70,7 +70,7 @@ public class CrawlService {
                 doc = Jsoup.connect(url).get();
                 Element content = doc.getElementsByClass("detail-cmain").first();
                 content.getElementsByAttribute("href").removeAttr("href");
-                news.setContent(content.html());
+                news.setContent(content.outerHtml());
 
                 //Source image
                 Element temp = element.getElementsByClass("box-category-link-with-avatar img-resize").get(0);
