@@ -1,0 +1,15 @@
+com\project\newspaper\service\CrawlService.class
+com\project\newspaper\log\ExceptionLog.class
+com\project\newspaper\entity\News.class
+com\project\newspaper\entity\Category.class
+com\project\newspaper\entity\ResponseModel.class
+com\project\newspaper\log\RequestLog.class
+com\project\newspaper\helper\LogHelper.class
+com\project\newspaper\NewspaperApplication.class
+com\project\newspaper\controller\NewsController.class
+com\project\newspaper\helper\Constant.class
+com\project\newspaper\repository\CategoryRepository.class
+com\project\newspaper\service\NewsService.class
+com\project\newspaper\controller\CategoryController.class
+com\project\newspaper\service\CategoryService.class
+com\project\newspaper\repository\NewsRepository.class

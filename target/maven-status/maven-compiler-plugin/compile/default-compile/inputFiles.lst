@@ -1,0 +1,15 @@
+D:\HuuTien\Java\Spring_Workspace\newspaper\src\main\java\com\project\newspaper\service\CrawlService.java
+D:\HuuTien\Java\Spring_Workspace\newspaper\src\main\java\com\project\newspaper\helper\LogHelper.java
+D:\HuuTien\Java\Spring_Workspace\newspaper\src\main\java\com\project\newspaper\helper\Constant.java
+D:\HuuTien\Java\Spring_Workspace\newspaper\src\main\java\com\project\newspaper\log\RequestLog.java
+D:\HuuTien\Java\Spring_Workspace\newspaper\src\main\java\com\project\newspaper\controller\CategoryController.java
+D:\HuuTien\Java\Spring_Workspace\newspaper\src\main\java\com\project\newspaper\log\ExceptionLog.java
+D:\HuuTien\Java\Spring_Workspace\newspaper\src\main\java\com\project\newspaper\controller\NewsController.java
+D:\HuuTien\Java\Spring_Workspace\newspaper\src\main\java\com\project\newspaper\entity\ResponseModel.java
+D:\HuuTien\Java\Spring_Workspace\newspaper\src\main\java\com\project\newspaper\service\NewsService.java
+D:\HuuTien\Java\Spring_Workspace\newspaper\src\main\java\com\project\newspaper\entity\News.java
+D:\HuuTien\Java\Spring_Workspace\newspaper\src\main\java\com\project\newspaper\entity\Category.java
+D:\HuuTien\Java\Spring_Workspace\newspaper\src\main\java\com\project\newspaper\repository\NewsRepository.java
+D:\HuuTien\Java\Spring_Workspace\newspaper\src\main\java\com\project\newspaper\service\CategoryService.java
+D:\HuuTien\Java\Spring_Workspace\newspaper\src\main\java\com\project\newspaper\repository\CategoryRepository.java
+D:\HuuTien\Java\Spring_Workspace\newspaper\src\main\java\com\project\newspaper\NewspaperApplication.java

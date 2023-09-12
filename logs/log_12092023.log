@@ -15,3 +15,6 @@
 12.09.2023 08:38:39.243 [main] INFO  c.p.n.NewspaperApplicationTests - Starting NewspaperApplicationTests using Java 17.0.7 with PID 17316 (started by dhtie in D:\HuuTien\Java\Spring_Workspace\newspaper)
 12.09.2023 08:38:39.244 [main] INFO  c.p.n.NewspaperApplicationTests - The following 1 profile is active: "prod"
 12.09.2023 08:38:58.021 [main] INFO  c.p.n.NewspaperApplicationTests - Started NewspaperApplicationTests in 19.14 seconds (process running for 20.249)
+12.09.2023 10:02:57.518 [main] INFO  c.p.n.NewspaperApplicationTests - Starting NewspaperApplicationTests using Java 17.0.7 with PID 17048 (started by dhtie in D:\HuuTien\Java\Spring_Workspace\newspaper)
+12.09.2023 10:02:57.519 [main] INFO  c.p.n.NewspaperApplicationTests - The following 1 profile is active: "prod"
+12.09.2023 10:03:18.183 [main] INFO  c.p.n.NewspaperApplicationTests - Started NewspaperApplicationTests in 21.12 seconds (process running for 22.377)
