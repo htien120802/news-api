@@ -806,3 +806,6 @@ Caused by: org.hibernate.HibernateException: Unable to determine Dialect without
 	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.initiateService(StandardServiceRegistryImpl.java:119)
 	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:264)
 	... 109 common frames omitted
+12.09.2023 12:46:25.922 [main] INFO  c.p.n.NewspaperApplicationTests - Starting NewspaperApplicationTests using Java 17.0.7 with PID 13248 (started by dhtie in C:\Users\dhtie\OneDrive\Máy tính\New folder (2)\news-api)
+12.09.2023 12:46:25.923 [main] INFO  c.p.n.NewspaperApplicationTests - The following 1 profile is active: "prod"
+12.09.2023 12:46:42.620 [main] INFO  c.p.n.NewspaperApplicationTests - Started NewspaperApplicationTests in 17.086 seconds (process running for 18.082)
