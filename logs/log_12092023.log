@@ -1,0 +1,6 @@
+12.09.2023 07:42:52.615 [main] INFO  c.p.newspaper.NewspaperApplication - Starting NewspaperApplication using Java 17.0.7 with PID 10732 (D:\HuuTien\Java\Spring_Workspace\newspaper\target\classes started by dhtie in D:\HuuTien\Java\Spring_Workspace\newspaper)
+12.09.2023 07:42:52.617 [main] INFO  c.p.newspaper.NewspaperApplication - The following 1 profile is active: "dev"
+12.09.2023 07:42:57.197 [main] INFO  c.p.newspaper.NewspaperApplication - Started NewspaperApplication in 5.044 seconds (process running for 5.419)
+12.09.2023 07:50:02.023 [main] INFO  c.p.n.NewspaperApplicationTests - Starting NewspaperApplicationTests using Java 17.0.7 with PID 5252 (started by dhtie in D:\HuuTien\Java\Spring_Workspace\newspaper)
+12.09.2023 07:50:02.024 [main] INFO  c.p.n.NewspaperApplicationTests - The following 1 profile is active: "dev"
+12.09.2023 07:50:07.260 [main] INFO  c.p.n.NewspaperApplicationTests - Started NewspaperApplicationTests in 5.635 seconds (process running for 6.819)

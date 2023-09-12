@@ -1,0 +1,78 @@
+10.09.2023 07:12:17.652 [main] INFO  c.p.newspaper.NewspaperApplication - Starting NewspaperApplication using Java 17.0.7 with PID 8376 (D:\HuuTien\Java\Spring_Workspace\newspaper\target\classes started by dhtie in D:\HuuTien\Java\Spring_Workspace\newspaper)
+10.09.2023 07:12:17.654 [main] INFO  c.p.newspaper.NewspaperApplication - No active profile set, falling back to 1 default profile: "default"
+10.09.2023 07:12:23.971 [main] INFO  c.p.newspaper.NewspaperApplication - Started NewspaperApplication in 7.196 seconds (process running for 10.433)
+10.09.2023 11:31:46.263 [main] INFO  c.p.newspaper.NewspaperApplication - Starting NewspaperApplication using Java 17.0.7 with PID 9956 (D:\HuuTien\Java\Spring_Workspace\newspaper\target\classes started by dhtie in D:\HuuTien\Java\Spring_Workspace\newspaper)
+10.09.2023 11:31:46.266 [main] INFO  c.p.newspaper.NewspaperApplication - No active profile set, falling back to 1 default profile: "default"
+10.09.2023 11:31:51.589 [main] INFO  c.p.newspaper.NewspaperApplication - Started NewspaperApplication in 6.119 seconds (process running for 7.122)
+10.09.2023 11:32:52.262 [http-nio-8081-exec-2] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/category
+10.09.2023 11:32:52.262 [http-nio-8081-exec-1] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/news
+10.09.2023 11:34:30.020 [http-nio-8081-exec-5] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/category
+10.09.2023 11:34:30.020 [http-nio-8081-exec-6] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/news
+10.09.2023 11:34:45.003 [http-nio-8081-exec-7] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/category
+10.09.2023 11:34:45.003 [http-nio-8081-exec-8] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/news
+10.09.2023 11:34:49.653 [http-nio-8081-exec-9] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/category
+10.09.2023 11:34:49.653 [http-nio-8081-exec-10] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/news
+10.09.2023 11:34:56.550 [http-nio-8081-exec-2] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/category
+10.09.2023 11:34:56.552 [http-nio-8081-exec-1] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/news
+10.09.2023 11:34:58.039 [http-nio-8081-exec-3] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/category
+10.09.2023 11:34:58.039 [http-nio-8081-exec-4] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/news
+10.09.2023 11:35:01.785 [http-nio-8081-exec-6] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/news
+10.09.2023 11:35:01.785 [http-nio-8081-exec-5] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/category
+10.09.2023 11:35:13.733 [main] INFO  c.p.newspaper.NewspaperApplication - Starting NewspaperApplication using Java 17.0.7 with PID 13652 (D:\HuuTien\Java\Spring_Workspace\newspaper\target\classes started by dhtie in D:\HuuTien\Java\Spring_Workspace\newspaper)
+10.09.2023 11:35:13.736 [main] INFO  c.p.newspaper.NewspaperApplication - No active profile set, falling back to 1 default profile: "default"
+10.09.2023 11:35:17.134 [main] INFO  c.p.newspaper.NewspaperApplication - Started NewspaperApplication in 3.907 seconds (process running for 4.566)
+10.09.2023 11:35:25.401 [http-nio-8081-exec-1] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/news
+10.09.2023 11:35:25.401 [http-nio-8081-exec-4] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/category
+10.09.2023 11:36:38.106 [http-nio-8081-exec-5] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/category
+10.09.2023 11:36:38.106 [http-nio-8081-exec-6] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/news
+10.09.2023 11:42:34.531 [main] INFO  c.p.newspaper.NewspaperApplication - Starting NewspaperApplication using Java 17.0.7 with PID 3668 (D:\HuuTien\Java\Spring_Workspace\newspaper\target\classes started by dhtie in D:\HuuTien\Java\Spring_Workspace\newspaper)
+10.09.2023 11:42:34.533 [main] INFO  c.p.newspaper.NewspaperApplication - No active profile set, falling back to 1 default profile: "default"
+10.09.2023 11:42:37.954 [main] INFO  c.p.newspaper.NewspaperApplication - Started NewspaperApplication in 3.919 seconds (process running for 4.545)
+10.09.2023 11:42:43.942 [http-nio-8081-exec-1] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/news
+10.09.2023 11:42:43.942 [http-nio-8081-exec-5] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/category
+10.09.2023 11:43:39.325 [http-nio-8081-exec-6] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/category
+10.09.2023 11:43:39.325 [http-nio-8081-exec-2] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/news
+10.09.2023 11:43:40.344 [http-nio-8081-exec-4] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/news
+10.09.2023 11:43:40.344 [http-nio-8081-exec-3] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/category
+10.09.2023 11:44:10.378 [http-nio-8081-exec-7] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/category
+10.09.2023 11:44:10.378 [http-nio-8081-exec-8] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/news
+10.09.2023 11:44:11.153 [http-nio-8081-exec-10] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/news
+10.09.2023 11:44:11.153 [http-nio-8081-exec-9] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/category
+10.09.2023 11:46:23.183 [http-nio-8081-exec-2] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/category
+10.09.2023 11:46:23.183 [http-nio-8081-exec-6] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/news
+10.09.2023 11:46:23.798 [http-nio-8081-exec-4] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/category
+10.09.2023 11:46:23.798 [http-nio-8081-exec-3] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/news
+10.09.2023 11:46:23.971 [http-nio-8081-exec-7] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/news
+10.09.2023 11:46:23.971 [http-nio-8081-exec-8] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/category
+10.09.2023 11:46:24.379 [http-nio-8081-exec-10] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/category
+10.09.2023 11:46:24.379 [http-nio-8081-exec-9] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/news
+10.09.2023 11:46:24.590 [http-nio-8081-exec-1] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/category
+10.09.2023 11:46:24.595 [http-nio-8081-exec-5] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/news
+10.09.2023 11:46:38.798 [main] INFO  c.p.newspaper.NewspaperApplication - Starting NewspaperApplication using Java 17.0.7 with PID 15352 (D:\HuuTien\Java\Spring_Workspace\newspaper\target\classes started by dhtie in D:\HuuTien\Java\Spring_Workspace\newspaper)
+10.09.2023 11:46:38.800 [main] INFO  c.p.newspaper.NewspaperApplication - No active profile set, falling back to 1 default profile: "default"
+10.09.2023 11:46:42.389 [main] INFO  c.p.newspaper.NewspaperApplication - Started NewspaperApplication in 4.121 seconds (process running for 4.66)
+10.09.2023 11:46:58.126 [http-nio-8081-exec-4] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/category
+10.09.2023 11:46:58.126 [http-nio-8081-exec-1] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/news
+10.09.2023 11:46:59.068 [http-nio-8081-exec-6] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/category
+10.09.2023 11:46:59.068 [http-nio-8081-exec-7] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/news
+10.09.2023 11:49:43.432 [http-nio-8081-exec-8] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/category
+10.09.2023 11:49:43.433 [http-nio-8081-exec-2] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/news
+10.09.2023 11:49:51.158 [http-nio-8081-exec-9] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/category
+10.09.2023 11:49:51.158 [http-nio-8081-exec-5] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/news
+10.09.2023 11:49:53.297 [http-nio-8081-exec-4] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/news
+10.09.2023 11:49:53.297 [http-nio-8081-exec-1] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/category
+10.09.2023 11:50:18.635 [http-nio-8081-exec-7] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/category
+10.09.2023 11:50:18.635 [http-nio-8081-exec-6] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/news
+10.09.2023 11:50:22.010 [http-nio-8081-exec-3] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/news
+10.09.2023 11:50:22.010 [http-nio-8081-exec-10] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/category
+10.09.2023 11:50:22.662 [http-nio-8081-exec-2] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/news
+10.09.2023 11:50:22.662 [http-nio-8081-exec-8] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/category
+10.09.2023 11:50:23.174 [http-nio-8081-exec-9] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/news
+10.09.2023 11:50:23.174 [http-nio-8081-exec-5] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/category
+10.09.2023 12:04:29.040 [main] INFO  c.p.newspaper.NewspaperApplication - Starting NewspaperApplication using Java 17.0.7 with PID 13656 (D:\HuuTien\Java\Spring_Workspace\newspaper\target\classes started by dhtie in D:\HuuTien\Java\Spring_Workspace\newspaper)
+10.09.2023 12:04:29.042 [main] INFO  c.p.newspaper.NewspaperApplication - No active profile set, falling back to 1 default profile: "default"
+10.09.2023 12:04:32.681 [main] INFO  c.p.newspaper.NewspaperApplication - Started NewspaperApplication in 4.121 seconds (process running for 4.628)
+10.09.2023 12:05:22.309 [http-nio-8081-exec-1] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/news
+10.09.2023 12:05:22.309 [http-nio-8081-exec-4] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/category
+10.09.2023 12:05:23.598 [http-nio-8081-exec-3] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/category
+10.09.2023 12:05:23.598 [http-nio-8081-exec-2] INFO  c.project.newspaper.log.RequestLog - REQUEST: received request GET /api/news
